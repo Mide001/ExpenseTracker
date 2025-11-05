@@ -1,0 +1,2 @@
+# Ignore local secrets
+appsettings.Development.json
